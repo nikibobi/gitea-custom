@@ -1,0 +1,6 @@
+git/
+gitea/gitea.db
+gitea/indexers/
+gitea/log/
+gitea/sessions/
+ssh/
