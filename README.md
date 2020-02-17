@@ -1,4 +1,4 @@
-# gitea-custom
+# gitea theme dark yelow
 Customized dark theme for Gitea
 
 # Preview
